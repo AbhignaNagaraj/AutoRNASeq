@@ -1,0 +1,10 @@
+*.fastq
+*.fq
+*.bam
+*.sam
+*.gz
+results/
+work/
+.nextflow*
+__pycache__/
+.ipynb_checkpoints/
